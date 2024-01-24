@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/proxy-sellet-tt/static/css/main.c2fd3f71.css",
-    "main.js": "/proxy-sellet-tt/static/js/main.289a927c.js",
-    "static/media/404-page.svg": "/proxy-sellet-tt/static/media/404-page.3f38b99ddd0a166ac3ccef3d9de6dbe6.svg",
-    "index.html": "/proxy-sellet-tt/index.html",
-    "static/media/ArrowDown.svg": "/proxy-sellet-tt/static/media/ArrowDown.6559e1334e35719e0defd46349957fbd.svg",
-    "static/media/ArrowUp.svg": "/proxy-sellet-tt/static/media/ArrowUp.df6c57d04d00127a56e078c1eb6e79ea.svg",
-    "main.c2fd3f71.css.map": "/proxy-sellet-tt/static/css/main.c2fd3f71.css.map",
-    "main.289a927c.js.map": "/proxy-sellet-tt/static/js/main.289a927c.js.map"
+    "main.css": "/proxy-seller-tt/static/css/main.c2fd3f71.css",
+    "main.js": "/proxy-seller-tt/static/js/main.a74f00b4.js",
+    "static/media/404-page.svg": "/proxy-seller-tt/static/media/404-page.3f38b99ddd0a166ac3ccef3d9de6dbe6.svg",
+    "index.html": "/proxy-seller-tt/index.html",
+    "static/media/ArrowDown.svg": "/proxy-seller-tt/static/media/ArrowDown.6559e1334e35719e0defd46349957fbd.svg",
+    "static/media/ArrowUp.svg": "/proxy-seller-tt/static/media/ArrowUp.df6c57d04d00127a56e078c1eb6e79ea.svg",
+    "main.c2fd3f71.css.map": "/proxy-seller-tt/static/css/main.c2fd3f71.css.map",
+    "main.a74f00b4.js.map": "/proxy-seller-tt/static/js/main.a74f00b4.js.map"
   },
   "entrypoints": [
     "static/css/main.c2fd3f71.css",
-    "static/js/main.289a927c.js"
+    "static/js/main.a74f00b4.js"
   ]
 }
