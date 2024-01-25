@@ -6,3 +6,4 @@ Technologies used: Bulma, React, react-router-dom
 npm i
 npm start
 ```
+[DEMO](https://mitattt.github.io/proxy-seller-tt/)
