@@ -48,7 +48,9 @@ export const UsersPage = () => {
   });
 
   const toggleSortOrder = useCallback(() => {
-    setSortOrder(sortOrder === Sort.ASD ? Sort.DESC : Sort.ASD);
+    setSortOrder(currentSortOrder =>
+      currentSortOrder === Sort.ASD ? Sort.DESC : Sort.ASD,
+    );
   }, []);
 
   if (isLoading) {
